@@ -4,6 +4,10 @@ A VS Code extension designed to assist developers in searching the web for error
 
 Written for a course project in COSC 523, Fall 2021.
 
+## Testing the Extension
+After cloning the repo, run ```npm install```.
+The extension can then be tested by running a debugging session in VS Code.
+
 ## Features
 
 Upon an error, the extension will provided an information box with the top 3-5 links from software engineering based sites like StackOverflow.
